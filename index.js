@@ -25,4 +25,4 @@ class Formatter {
   }
 }
 
-console.log( Formatter.titleize( "a tale of two cities" ));
+// console.log( Formatter.titleize( "a tale of two cities" ));
