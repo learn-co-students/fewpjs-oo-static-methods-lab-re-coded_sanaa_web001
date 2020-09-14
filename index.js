@@ -1,3 +1,6 @@
 class Formatter {
-  //add static methods here
+
+  static capitalize(name) {
+    return name.charAt(0).toUpperCase() + name.slice(1);
+  }
 }
